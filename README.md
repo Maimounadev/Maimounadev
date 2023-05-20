@@ -1,3 +1,4 @@
+![banner](https://github.com/Maimounadev/Maimounadev/assets/126852208/11155ad3-14ca-41ba-8ddf-2944fe6653e8)
 ### Hi there 👋, my name is Maimouna Traore
 #### I am a Software Engineer @Resilient Coders
 
@@ -6,7 +7,7 @@ Growing up with immigrant parents from West Africa, I learned the value of perse
 with others to bring to life new ideas that make a positive impact on communities like the ones I come from. I’m excited to join a team of like-minded individuals who share my passion for technology.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
-![banner](https://github.com/Maimounadev/Maimounadev/assets/126852208/11155ad3-14ca-41ba-8ddf-2944fe6653e8)
+
 
 - 🔭 I’m currently working on https://github.com/Maimounadev/MomAppDemo 
 - 💬 Ask me about https://github.com/Maimounadev/nurseApp-FullAuth 
